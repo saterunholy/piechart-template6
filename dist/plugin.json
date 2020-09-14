@@ -1,7 +1,7 @@
 {
   "type": "panel",
-  "name": "Softtek Pie Chart Template #5",
-  "id": "softtek-pc5",
+  "name": "Softtek Pie Chart Template #6",
+  "id": "softtek-pc6",
   "info": {
     "description": "Softtek Pie panel for grafana",
     "author": {
@@ -12,8 +12,8 @@
       "echarts"
     ],
     "logos": {
-      "small": "img/pietemp5.png",
-      "large": "img/pietemp5.png"
+      "small": "img/pietemp6.png",
+      "large": "img/pietemp6.png"
     },
     "links": [
       {

@@ -1,10 +1,10 @@
-# Softtek Pie Chart Green/Blue Multi
+# Softtek Pie Chart Turquoise/Pink Multi
 
 Softtek panel for grafana 6+ & 7+, coding with react.
 
 Code editor is attached in the edit panel to configure the option of echarts.
 
-![image](https://github.com/saterunholy/piechart-template4/blob/master/doc/piechart5.png)
+![image](https://github.com/saterunholy/piechart-template6/blob/master/doc/piechart6.png)
 
 ## How Use
 

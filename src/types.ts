@@ -79,7 +79,7 @@ return {
               
             ],
         itemStyle: {
-                color: '#19923C',
+                color: '#CB4482',
                 borderColor: '#000000',
                 borderWidth: '0.3',
                 shadowBlur: 200,
@@ -123,15 +123,15 @@ return {
                     },
                     b: {
                         fontSize: 16,
-                        color: '#195292',
+                        color: '#44C5CB',
                         lineHeight: 22
                     },
                     c: {
-                      color: "#195292"
+                      color: "#44C5CB"
                     },
                     per: {
                         color: '#eee',
-                        backgroundColor: '#195292',
+                        backgroundColor: '#44C5CB',
                         padding: [2, 4],
                         borderRadius: 2
                     }
@@ -148,7 +148,7 @@ return {
                 {value: 102, name: 'Data 8'}
             ],
             itemStyle: {
-                color: '#195292',
+                color: '#44C5CB',
                 borderColor: '#243EC5',
                 borderWidth: '0.3',
                 shadowBlur: 200,

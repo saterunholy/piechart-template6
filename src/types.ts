@@ -1,6 +1,6 @@
 export const funcParams = 'data, theme, echartsInstance, echarts';
 
-const series = data.series.map((s) => {
+const funcBody = 'const series = data.series.map((s) => {
   const sData = s.fields.find((f) => f.name === 'value').values.buffer;
   const sTime = s.fields.find((f) => f.name === 'pelicula').values.buffer;
   
